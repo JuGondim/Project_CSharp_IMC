@@ -1,0 +1,16 @@
+C:\Users\admin\Documents\Project_Csharp\IMC\IMC_Project\bin\Debug\net5.0\IMC_Project.exe
+C:\Users\admin\Documents\Project_Csharp\IMC\IMC_Project\bin\Debug\net5.0\IMC_Project.deps.json
+C:\Users\admin\Documents\Project_Csharp\IMC\IMC_Project\bin\Debug\net5.0\IMC_Project.runtimeconfig.json
+C:\Users\admin\Documents\Project_Csharp\IMC\IMC_Project\bin\Debug\net5.0\IMC_Project.runtimeconfig.dev.json
+C:\Users\admin\Documents\Project_Csharp\IMC\IMC_Project\bin\Debug\net5.0\IMC_Project.dll
+C:\Users\admin\Documents\Project_Csharp\IMC\IMC_Project\bin\Debug\net5.0\IMC_Project.pdb
+C:\Users\admin\Documents\Project_Csharp\IMC\IMC_Project\obj\Debug\net5.0\IMC_Project.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Project_Csharp\IMC\IMC_Project\obj\Debug\net5.0\IMC_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Project_Csharp\IMC\IMC_Project\obj\Debug\net5.0\IMC_Project.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Project_Csharp\IMC\IMC_Project\obj\Debug\net5.0\IMC_Project.AssemblyInfo.cs
+C:\Users\admin\Documents\Project_Csharp\IMC\IMC_Project\obj\Debug\net5.0\IMC_Project.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Project_Csharp\IMC\IMC_Project\obj\Debug\net5.0\IMC_Project.dll
+C:\Users\admin\Documents\Project_Csharp\IMC\IMC_Project\obj\Debug\net5.0\refint\IMC_Project.dll
+C:\Users\admin\Documents\Project_Csharp\IMC\IMC_Project\obj\Debug\net5.0\IMC_Project.pdb
+C:\Users\admin\Documents\Project_Csharp\IMC\IMC_Project\obj\Debug\net5.0\IMC_Project.genruntimeconfig.cache
+C:\Users\admin\Documents\Project_Csharp\IMC\IMC_Project\obj\Debug\net5.0\ref\IMC_Project.dll
